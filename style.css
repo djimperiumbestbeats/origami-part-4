@@ -1,0 +1,39 @@
+.menu{
+background-color: rgb(251, 255, 0);
+    display:flex;
+justify-content:space-evenly
+
+}
+.grid{
+    margin: 25px;
+    display:flex
+    
+ 
+}
+.origami{
+border-radius: 20px;
+padding: 30px;
+margin: 25px;
+background-color: white;
+width: 310px;
+font-family: fantasy;
+}
+body{
+margin: 0px;
+background-color: #ff0062;
+}
+.header{
+background-color: #00f3df;
+
+}
+.origami{
+    background-color: rgb(115, 255, 0);
+}
+a:link{ color: rgb(14, 183, 235);}
+a:visited{color: rgb(255, 0, 234);}
+a:link{ text-decoration: none;}
+a:visited{text-decoration: none;}
+.origami:hover ol{
+    transform: scale(1.2);
+    
+}
